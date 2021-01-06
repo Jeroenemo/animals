@@ -5,3 +5,11 @@
 .unimportant {
   color: mediumblue;
 }
+
+.highlight {
+  font-weight: 100;
+}
+
+.fish-type {
+  color: peru;
+}
